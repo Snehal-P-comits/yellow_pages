@@ -33,7 +33,6 @@ yellow_pages/
 │   └── utils/
 │       └── __init__.py         # Utility functions
 ├── requirements.txt            # Python dependencies
-├── test.py                     # Test suite
 └── README.md                   # This file
 ```
 
